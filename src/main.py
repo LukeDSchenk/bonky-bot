@@ -30,7 +30,7 @@ def browser_thread():
 
     browser = Firefox()
     browser.get("https://monkeytype.com")
-    reject_all = browser.find_element(By.XPATH, '//div[text()="Reject all"]')
+    reject_all = browser.find_element(By.XPATH, '//div[@id="typingTest"]')
     reject_all.click()
     pya.click(1000, 500) # Click the approximate center of the 🅱creen. 
 

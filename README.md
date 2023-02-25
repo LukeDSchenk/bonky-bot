@@ -2,5 +2,5 @@
 
 He is not faster than me anymore:
 
-![HEHHEH SOUCKA](2600-wpm.png)
+![HEHHEH SOUCKA](BONKYBOT-PR-HEHHEH.png)
 ![BODIED BITCH](BODIED.gif)
